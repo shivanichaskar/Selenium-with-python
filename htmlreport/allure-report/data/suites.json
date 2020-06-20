@@ -1,0 +1,90 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_dropdown",
+    "children" : [ {
+      "name" : "test_verift_reg",
+      "uid" : "3c5cfa02f4b241a1",
+      "parentUid" : "a49e9a2ef0f1bbce23a9757fddb97da1",
+      "status" : "broken",
+      "time" : {
+        "start" : 1592426914596,
+        "stop" : 1592426914612,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a49e9a2ef0f1bbce23a9757fddb97da1"
+  }, {
+    "name" : "test_first",
+    "children" : [ {
+      "name" : "test_first",
+      "uid" : "399528b42d4fed6c",
+      "parentUid" : "4eadecbf849eed09bd51f827e7e2c1e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426916936,
+        "stop" : 1592426933091,
+        "duration" : 16155
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4eadecbf849eed09bd51f827e7e2c1e1"
+  }, {
+    "name" : "test_keyboard action",
+    "children" : [ {
+      "name" : "test_keybore",
+      "uid" : "7e2b216538771043",
+      "parentUid" : "37d591bd55524603da7c4fb7c8ee5d20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426933115,
+        "stop" : 1592426947046,
+        "duration" : 13931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "37d591bd55524603da7c4fb7c8ee5d20"
+  }, {
+    "name" : "test_mouse",
+    "children" : [ {
+      "name" : "test_mouse",
+      "uid" : "5b0392c5f53750de",
+      "parentUid" : "3d8a0293dc2bd1f4a5e460100b9c24fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426955389,
+        "stop" : 1592426973096,
+        "duration" : 17707
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3d8a0293dc2bd1f4a5e460100b9c24fd"
+  }, {
+    "name" : "test_runtine",
+    "children" : [ {
+      "name" : "test_runtime",
+      "uid" : "5f127f6feb0d95e6",
+      "parentUid" : "0f9e0ea39f21c4b3dc15c5353d2e92bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426973128,
+        "stop" : 1592426987371,
+        "duration" : 14243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0f9e0ea39f21c4b3dc15c5353d2e92bc"
+  } ]
+}

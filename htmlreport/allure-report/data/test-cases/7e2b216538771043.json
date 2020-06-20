@@ -1,0 +1,50 @@
+{
+  "uid" : "7e2b216538771043",
+  "name" : "test_keybore",
+  "fullName" : "test_keyboard action#test_keybore",
+  "historyId" : "0703bac74fbaf2a72d886e9552de32c0",
+  "time" : {
+    "start" : 1592426933115,
+    "stop" : 1592426947046,
+    "duration" : 13931
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_keyboard action"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SFC0MPB"
+  }, {
+    "name" : "thread",
+    "value" : "14168-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_keyboard action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e2b216538771043.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,2 @@
+text on link is    Read Detail
+value of button     Sign up

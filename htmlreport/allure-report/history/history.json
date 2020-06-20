@@ -1,0 +1,98 @@
+{
+  "8a44d9752acf47154d6ba3f1b8041693" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f127f6feb0d95e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426973128,
+        "stop" : 1592426987371,
+        "duration" : 14243
+      }
+    } ]
+  },
+  "7092e19b2a28a19ace1efa5413335be8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3c5cfa02f4b241a1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: invalid locator\n  (Session info: chrome=83.0.4103.106)",
+      "time" : {
+        "start" : 1592426914596,
+        "stop" : 1592426914612,
+        "duration" : 16
+      }
+    } ]
+  },
+  "0f00d6a1afa78e2494296338104045eb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "399528b42d4fed6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426916936,
+        "stop" : 1592426933091,
+        "duration" : 16155
+      }
+    } ]
+  },
+  "0703bac74fbaf2a72d886e9552de32c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e2b216538771043",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426933115,
+        "stop" : 1592426947046,
+        "duration" : 13931
+      }
+    } ]
+  },
+  "ec9ffdda5f9e05f49dcfa466804d4f5e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b0392c5f53750de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592426955389,
+        "stop" : 1592426973096,
+        "duration" : 17707
+      }
+    } ]
+  }
+}

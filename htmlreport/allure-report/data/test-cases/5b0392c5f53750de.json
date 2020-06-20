@@ -1,0 +1,50 @@
+{
+  "uid" : "5b0392c5f53750de",
+  "name" : "test_mouse",
+  "fullName" : "test_mouse#test_mouse",
+  "historyId" : "ec9ffdda5f9e05f49dcfa466804d4f5e",
+  "time" : {
+    "start" : 1592426955389,
+    "stop" : 1592426973096,
+    "duration" : 17707
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mouse"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SFC0MPB"
+  }, {
+    "name" : "thread",
+    "value" : "14168-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mouse"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b0392c5f53750de.json",
+  "parameterValues" : [ ]
+}

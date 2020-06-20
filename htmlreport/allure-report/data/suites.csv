@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 17 15:49:33 CDT 2020","Wed Jun 17 15:49:47 CDT 2020","14243","","test_runtine","","","","test_runtime",""
+"passed","Wed Jun 17 15:49:15 CDT 2020","Wed Jun 17 15:49:33 CDT 2020","17707","","test_mouse","","","","test_mouse",""
+"broken","Wed Jun 17 15:48:34 CDT 2020","Wed Jun 17 15:48:34 CDT 2020","16","","test_dropdown","","","","test_verift_reg",""
+"passed","Wed Jun 17 15:48:36 CDT 2020","Wed Jun 17 15:48:53 CDT 2020","16155","","test_first","","","","test_first",""
+"passed","Wed Jun 17 15:48:53 CDT 2020","Wed Jun 17 15:49:07 CDT 2020","13931","","test_keyboard action","","","","test_keybore",""
