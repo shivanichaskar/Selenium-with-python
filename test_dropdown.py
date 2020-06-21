@@ -38,7 +38,7 @@ def environment_setup():
 def test_verift_reg(environment_setup):
     # create obj of wait
     wait = WebDriverWait(driver,100)
-    wait.until(ec.text_to_be_present_in_element(By.ID,'countryId'),"India")
+    #wait.until(ec.text_to_be_present_in_element(By.ID,'countryId'),"India")
     # radio button
     # driver.find_element_by_xpath("//input[@value='home']").click()
     #driver.find_element_by_xpath("//input[@value='office']").click()
@@ -47,7 +47,7 @@ def test_verift_reg(environment_setup):
     obj = Select(driver.find_element_by_id("countryId"))
     obj.select_by_visible_text("India")
 
-    wait.until(ec.text_to_be_present_in_element(By.ID, 'stateId'), "Goa")
+    #wait.until(ec.text_to_be_present_in_element(By.ID, 'stateId'), "Goa")
 
     obj = Select(driver.find_element_by_id("stateId"))
     obj.select_by_visible_text("Goa")
